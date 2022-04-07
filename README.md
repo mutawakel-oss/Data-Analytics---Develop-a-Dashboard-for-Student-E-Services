@@ -12,4 +12,6 @@ This project aims to automate the business process of requesting student electro
 # Project Schedule:
 This project took 6 months and helped 10,000 active students to send 375,000 request for student e-services since launched in 2018.
 
-Following is 
+Following is a sample screenshot for one of the dynamic reports of a student e-service:
+![Sample Graph](https://github.com/mutawakel-oss/Develop-a-Dashboard-for-Student-E-Services/blob/main/Picture1.png)
+
